@@ -1,6 +1,7 @@
 #ifndef MESSAGE_HPP
+#define MESSAGE_HPP
 
-#include <CommonInclude.hpp>
+#include "CommonInclude.hpp"
 
 //message namespace = mpgame::
 namespace mpgame {
